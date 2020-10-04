@@ -1,0 +1,34 @@
+{
+	"name": "optimizedhtml",
+	"version": "5.0.0",
+	"description": "OptimizedHTML 5 - Start HTML Template",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "WebDesign Master",
+	"license": "ISC",
+	"devDependencies": {
+		"@babel/core": "^7.8.4",
+		"@babel/preset-env": "^7.8.4",
+		"bootstrap": "^4.5.2",
+		"browser-sync": "^2.26.7",
+		"del": "^5.1.0",
+		"gulp": "^4.0.2",
+		"gulp-autoprefixer": "^7.0.1",
+		"gulp-babel": "^8.0.0",
+		"gulp-clean-css": "^4.2.0",
+		"gulp-concat": "^2.6.1",
+		"gulp-newer": "^1.4.0",
+		"gulp-rename": "^1.4.0",
+		"gulp-responsive": "^3.0.1",
+		"gulp-rollup": "^2.17.0",
+		"gulp-rsync": "0.0.8",
+		"gulp-sass": "^4.0.2",
+		"gulp-uglify-es": "^2.0.0",
+		"normalize.css": "^8.0.1",
+		"rollup-plugin-babel": "^4.3.3",
+		"vanillajs-datepicker": "^1.0.2",
+		"vinyl-ftp": "^0.6.1"
+	}
+}
